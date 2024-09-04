@@ -1,11 +1,11 @@
 # Flower
-This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
+This repository contains the source code of the Flower website using HTML, CSS, and JavaScript.
 
 ### Downlode Source code from github
 Using This :
 
 ```
-$ git clone https://github.com/rueeschz-bzz/gini.git
+$ git clone https://github.com/rueeschz-bzz/flower.git
 ```
 
 ### Downlode Ruby
