@@ -8,8 +8,9 @@ Using This :
 $ git clone https://github.com/rueeschz-bzz/flower.git
 ```
 
-### Downlode Ruby
-Downlode Ruby for the SCSS
+### Visit Website
+Open This :
+
 ```
-npm i -g scss
+https://flowerss.vercel.app/
 ```
